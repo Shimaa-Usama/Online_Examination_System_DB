@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Exam] (
-  [Ex_id] [int] NOT NULL,
+  [Ex_id] [int] IDENTITY,
   [Grade] [int] NULL,
   [Crs_id] [int] NULL,
   CONSTRAINT [PK_Exam] PRIMARY KEY CLUSTERED ([Ex_id])
