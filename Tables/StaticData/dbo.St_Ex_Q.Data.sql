@@ -1,0 +1,10 @@
+﻿INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 1, 1, N'T', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 2, 1, N'b', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 3, 1, N'a', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 4, 1, N'a', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 5, 1, N'b', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 6, 1, N'T', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 7, 1, N'T', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 8, 1, N'T', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 9, 1, N'a', NULL);
+INSERT dbo.St_Ex_Q(St_id, Q_id, Ex_id, Ans, Grade) VALUES (4, 10, 1, N'F', NULL);
