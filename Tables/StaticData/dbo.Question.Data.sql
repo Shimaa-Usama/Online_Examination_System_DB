@@ -1,8 +1,10 @@
-ÔªøINSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (1, N'T/F', N'We can use reserved keywords as identifiers in C#?', 10, N'T', 1);
+
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (0, N' ', N' ', 0, N' ', 0);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (1, N'T/F', N'We can use reserved keywords as identifiers in C#?', 10, N'T', 1);
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (2, N'MCQ', N'Which of the following defines boxing correctly?', 10, N'a', 1);
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (3, N'MCQ', N'Which of the following is the correct about static member variables of a class?', 10, N'c', 1);
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (4, N'MCQ', N'Which of the following method copies the actual value of an argument into the formal parameter of the function?', 10, N'a', 1);
-INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (5, N'MCQ', N'‚Äú.NET class‚Äù name from which datatype ‚ÄúUInt‚Äù is derived ?', 10, N'b', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (5, N'MCQ', N'ì.NET classî name from which datatype ìUIntî is derived ?', 10, N'b', 1);
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (6, N'T/F', N'C# does not support multiple inheritance.', 10, N'T', 1);
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (7, N'T/F', N'You can store multiple data types in system.array', 10, N'F', 1);
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (8, N'T/F', N'Private class level variables inherited', 10, N'T', 1);
