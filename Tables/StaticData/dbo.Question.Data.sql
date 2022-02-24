@@ -20,3 +20,14 @@ INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (17, N'T
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (18, N'T/F', N'Multiple constraints can be included in a single query', 10, N'T', 2);
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (19, N'T/F', N'Specifying an asterisk (*) for the association multiplicity on a class diagram indicates that the item is required', 10, N'F', 2);
 INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (20, N'T/F', N'Properties of an object are stored as rows in a table', 10, N'F', 2);
+
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (21, N'MCQ', N'Which of the following is a contextual keyword in C#?', 10, N'd', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (22, N'MCQ', N'Which of the following access specifier in C# allows a class to expose its member variables and member functions to other functions and objects?', 10, N'a', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (23, N'MCQ', N'Which of the following property of Array class in C# gets a 32-bit integer, the total number of elements in all the dimensions of the Array?', 10, N'c', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (24, N'T/F', N'You can define one namespace inside another namespace.', 10, N'T', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (25, N'MCQ', N'Which of the following is true about System.ApplicationException class in C#?', 10, N'c', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (26, N'MCQ', N'Abstract class contains', 10, N'c', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (27, N'T/F', N'Reference and output parameters have memory addresses that are passed to a method, allowing it to alter the original variables. ', 10, N'T', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (28, N'T/F', N'In C#, you can use either new or out when defining a derived class member that has the same name as a base class member.', 10, N'F', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (29, N'T/F', N'The data components of a class often are called its iteration.', 10, N'F', 1);
+INSERT dbo.Question(Q_id, Type, Quest, Grade, Model_Ans, Crs_id) VALUES (30, N'T/F', N'A class is a number that uniquely identifies an object. ', 10, N'F', 1);
